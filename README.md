@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=2nd+Year+CS+Student+%40+Bar-Ilan+University;Passionate+Developer;Always+Learning+New+Tech" alt="Typing SVG" />
 
   <p>
-    Welcome to my GitHub profile! I am a passionate <b>2nd-year Computer Science student at Bar-Ilan University</b>. I love building software, exploring new technologies, and working on challenging projects. Feel free to connect with me!
+    Welcome to my GitHub profile! I am a passionate <b>second year Computer Science student at Bar-Ilan University</b>. I love building software, exploring new technologies, and working on challenging projects. Feel free to connect with me!
   </p>
 
   <p align="center">
