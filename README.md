@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Projects
 
-Here are some of my favorite projects, sorted by priority. Click on them to see more!
+Here are some of my favorite projects. Click on them to see more!
 
 <table align="center">
   <tr>
