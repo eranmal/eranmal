@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/eran-malachi-6797a5393">
+    <a href="https://www.linkedin.com/in/eran-malachi-6797a5393" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://github.com/eranmal">
@@ -20,7 +20,19 @@
   </p>
 </div>
 
-<br/>
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -29,64 +41,62 @@ Here are some of my favorite projects. Click on them to see more!
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/eranmal/brick-breaker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=brick-breaker&theme=tokyonight" />
+      <a href="https://github.com/eranmal/FormFlow">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=FormFlow&theme=tokyonight" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/eranmal/VerificationAgent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=VerificationAgent&theme=tokyonight" />
+      <a href="https://github.com/eranmal/ProtectBro">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=ProtectBro&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/eranmal/AI-TO-JIRA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=AI-TO-JIRA&theme=tokyonight" />
+      <a href="https://github.com/eranmal/VerificationAgent">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=VerificationAgent&theme=tokyonight" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/eranmal/ProtectBro">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=ProtectBro&theme=tokyonight" />
+      <a href="https://github.com/eranmal/AI-TO-JIRA">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=AI-TO-JIRA&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/eranmal/brick-breaker">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=brick-breaker&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eranmal/shell-hooks-automation">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=shell-hooks-automation&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/eranmal/Hebrew-Blind-Typing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=Hebrew-Blind-Typing&theme=tokyonight" />
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=Hebrew-Blind-Typing&theme=tokyonight" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/eranmal/FormFlow">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=FormFlow&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/eranmal/shell-hooks-automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=shell-hooks-automation&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/eranmal/My-C-Assignments">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=My-C-Assignments&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/eranmal/Minesweeper">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=eranmal&repo=Minesweeper&theme=tokyonight" />
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=Minesweeper&theme=tokyonight" />
       </a>
     </td>
-    <td></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/eranmal/My-C-Assignments">
+        <img src="https://github-readme-stats-one.vercel.app/api/pin/?username=eranmal&repo=My-C-Assignments&theme=tokyonight" />
+      </a>
+    </td>
   </tr>
 </table>
 
 <br/>
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
